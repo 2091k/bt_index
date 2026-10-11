@@ -30,6 +30,6 @@
 | 组件 | 适用环境 | 下载地址 |
 | :--- | :--- | :--- |
 | .NET Framework 4.8 脱机安装程序包 | Windows | [下载](https://download.microsoft.com/download/f/3/a/f3a6af84-da23-40a5-8d1c-49cc10c8e76f/NDP48-x86-x64-AllOS-ENU.exe) |
-| Microsoft Access 2010 数据库引擎（64 位） | Windows x64 | [下载](https://app.2091k.cn/bt/AccessDatabaseEngine_X64.exe) |
+| Microsoft Access 2010 数据库引擎（64 位） | Windows x64 | [下载](https://app.521156.XYZ/bt/AccessDatabaseEngine_X64.exe) |
 | Microsoft Access 2016 数据库引擎（64 位） | Windows x64 | [下载](https://download.microsoft.com/download/3/5/c/35c84c36-661a-44e6-9324-8786b8dbe231/accessdatabaseengine_X64.exe) |
 | .NET Framework 3.5 启动程序 | Windows 10 / 11 | [下载](https://app.521156.xyz/win/net3.5.cmd) |
