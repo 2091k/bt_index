@@ -30,6 +30,7 @@
 | BarTender 11.8 | 11.8 | 2025/10/13 | 全球 | [官网下载](https://portal.seagullscientific.com/downloads/PrepareDownload?type=BarTender&fileName=https://downloads1.bartendersoftware.com.cn/BarTender/11.8/BT11.8_R1_229340_Full_x64.exe) | — |
 | BarTender 11.5 | 11.5.1 | 2025/9/4 | 全球 | [官网下载](https://portal.seagullscientific.com/downloads/PrepareDownload?type=BarTender&fileName=https://downloads1.bartendersoftware.com.cn/BarTender/11.5/BT11.5_R1_224180_Full_x64.exe) | — |
 | BarTender 11.4 | 11.4 | 2025/3/27 | 全球 | [官网下载](https://portal.seagullscientific.com/downloads/PrepareDownload?type=BarTender&fileName=https://downloads1.bartendersoftware.com.cn/BarTender/11.4/BT11.4_R1_220560_Full_x64.exe) | — |
+
 ## 运行环境与依赖组件
 
 | 组件 | 适用环境 | 下载地址 |
